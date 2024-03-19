@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "go9F4eu79y0z7N9aOTEOCPhgG87S10Lv10+BjnLuNHk=",
+  "Source": "KambaiaAPI",
+  "BasePath": "_content/KambaiaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
